@@ -1,13 +1,12 @@
 bats
-dnf
-dnf-command(builddep)
 git
-gcc
-grubby
 python3-devel
 python3-dulwich
 python3-pip
+yum
+yum-utils
 libcurl-devel
 libvirt-devel
 openssl-devel
 libxml2-devel
+
